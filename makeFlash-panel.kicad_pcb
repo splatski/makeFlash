@@ -3,7 +3,7 @@
   (general
     (links 52)
     (no_connects 8)
-    (area 60.886359 98.979019 161.087021 178.05484)
+    (area 60.886359 98.979019 160.987021 178.05484)
     (thickness 1.6)
     (drawings 12)
     (tracks 152)
@@ -87,7 +87,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory /home/michael/HobartMakers/makeFlash/panel-gerbers/))
+      (outputdirectory "E:/splat/OneDrive/Documents/KiCad/Hobart Makers/makeFlash/panel-gerbers/"))
   )
 
   (net 0 "")
